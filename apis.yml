@@ -1,0 +1,125 @@
+name: JavaScript Core APIs
+description: A comprehensive collection of core JavaScript APIs and their endpoints
+image: https://developer.mozilla.org/favicon-48x48.png
+created: '2024-01-01'
+modified: '2024-01-01'
+specificationVersion: '0.16'
+url: https://example.com/apis.json
+apis:
+- name: Fetch API
+  description: Modern interface for making HTTP requests
+  image: https://example.com/images/fetch-api.png
+  humanURL: https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+  baseURL: https://api.example.com
+  tags:
+  - HTTP
+  - Network
+  - AJAX
+  - Async
+  properties:
+  - type: Documentation
+    url: https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+  - type: Specification
+    url: https://fetch.spec.whatwg.org/
+- name: Web Storage API
+  description: APIs for storing data in the browser (localStorage and sessionStorage)
+  humanURL: https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API
+  baseURL: browser://storage
+  tags:
+  - Storage
+  - Browser
+  - Client-side
+  properties:
+  - type: Documentation
+    url: https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API
+  - type: Specification
+    url: https://html.spec.whatwg.org/multipage/webstorage.html
+- name: Web Audio API
+  description: System for controlling audio on the web
+  humanURL: https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API
+  baseURL: browser://audio
+  tags:
+  - Audio
+  - Media
+  - Sound
+  properties:
+  - type: Documentation
+    url: https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Using_Web_Audio_API
+  - type: Specification
+    url: https://webaudio.github.io/web-audio-api/
+- name: Canvas API
+  description: APIs for drawing graphics via JavaScript and HTML canvas element
+  humanURL: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API
+  baseURL: browser://canvas
+  tags:
+  - Graphics
+  - Drawing
+  - 2D
+  properties:
+  - type: Documentation
+    url: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial
+  - type: Specification
+    url: https://html.spec.whatwg.org/multipage/canvas.html
+- name: WebSockets API
+  description: API for opening bidirectional communication channels
+  humanURL: https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API
+  baseURL: wss://example.com
+  tags:
+  - WebSocket
+  - Real-time
+  - Communication
+  - Bidirectional
+  properties:
+  - type: Documentation
+    url: https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_client_applications
+  - type: Specification
+    url: https://websockets.spec.whatwg.org/
+- name: Geolocation API
+  description: API for accessing geographical position information
+  humanURL: https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API
+  baseURL: browser://geolocation
+  tags:
+  - Location
+  - GPS
+  - Position
+  properties:
+  - type: Documentation
+    url: https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API/Using_the_Geolocation_API
+  - type: Specification
+    url: https://w3c.github.io/geolocation-api/
+- name: Notification API
+  description: API for displaying system notifications to users
+  humanURL: https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API
+  baseURL: browser://notifications
+  tags:
+  - Notifications
+  - Alerts
+  - User Interface
+  properties:
+  - type: Documentation
+    url: https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API/Using_the_Notifications_API
+  - type: Specification
+    url: https://notifications.spec.whatwg.org/
+- name: IndexedDB API
+  description: Low-level API for client-side storage of significant amounts of structured data
+  humanURL: https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API
+  baseURL: browser://indexeddb
+  tags:
+  - Database
+  - Storage
+  - Client-side
+  - NoSQL
+  properties:
+  - type: Documentation
+    url: https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/Using_IndexedDB
+  - type: Specification
+    url: https://w3c.github.io/IndexedDB/
+maintainers:
+- name: JavaScript Community
+  email: community@javascript.example
+  url: https://javascript.example.com
+tags:
+- JavaScript
+- Web APIs
+- Browser
+- ECMAScript
