@@ -9,10 +9,10 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - JavaScript
-  - Web APIs
   - Browser
   - ECMAScript
+  - JavaScript
+  - Web APIs
 url: >-
   https://raw.githubusercontent.com/api-evangelist/javascript/refs/heads/main/apis.yml
 created: '2024-01-01'
@@ -28,9 +28,9 @@ apis:
       web applications.
     humanURL: https://developer.mozilla.org/en-US/docs/Web/API
     tags:
-      - Web APIs
       - Browser
       - JavaScript
+      - Web APIs
     properties:
       - type: Documentation
         url: https://developer.mozilla.org/en-US/docs/Web/API
