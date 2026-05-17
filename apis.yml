@@ -153,7 +153,7 @@ common:
     url: https://www.javascript.com/
   - type: Documentation
     url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-  - type: Getting Started
+  - type: GettingStarted
     url: https://developer.mozilla.org/en-US/docs/Learn/JavaScript
   - type: Reference
     url: https://developer.mozilla.org/en-US/docs/Web/API
