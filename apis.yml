@@ -149,6 +149,8 @@ apis:
       - type: Specification
         url: https://w3c.github.io/IndexedDB/
 common:
+  - type: DomainSecurity
+    url: security/javascript-domain-security.yml
   - type: Website
     url: https://www.javascript.com/
   - type: Documentation
