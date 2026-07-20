@@ -1,5 +1,6 @@
 aid: javascript
 name: JavaScript
+kind: topic
 description: >-
   JavaScript is a lightweight, interpreted, or just-in-time compiled programming
   language with first-class functions. It is a multi-paradigm, dynamic language
