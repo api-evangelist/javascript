@@ -29,6 +29,12 @@ tags:
   - ECMAScript
   - JavaScript
   - Programming Language
+  - Web API
+tags_raw:
+  - Browser
+  - ECMAScript
+  - JavaScript
+  - Programming Language
   - Web APIs
 url: >-
   https://raw.githubusercontent.com/api-evangelist/javascript/refs/heads/main/apis.yml
@@ -60,6 +66,10 @@ apis:
       localStorage and sessionStorage.
     humanURL: https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API
     tags:
+      - Browser
+      - Client-Side
+      - Storage
+    tags_raw:
       - Browser
       - Client-side
       - Storage
@@ -107,6 +117,11 @@ apis:
     humanURL: https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API
     tags:
       - Bidirectional
+      - Communications
+      - Real-Time
+      - WebSocket
+    tags_raw:
+      - Bidirectional
       - Communication
       - Real-time
       - WebSocket
@@ -138,6 +153,10 @@ apis:
     humanURL: https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API
     tags:
       - Alerts
+      - Notification
+      - User Interface
+    tags_raw:
+      - Alerts
       - Notifications
       - User Interface
     properties:
@@ -152,6 +171,11 @@ apis:
       of structured data, including files and blobs.
     humanURL: https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API
     tags:
+      - Client-Side
+      - Database
+      - NoSQL
+      - Storage
+    tags_raw:
       - Client-side
       - Database
       - NoSQL
