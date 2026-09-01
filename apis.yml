@@ -40,7 +40,7 @@ tags:
   - ECMAScript
   - JavaScript
   - Programming Language
-  - Web APIs
+  - Web API
 tags_raw:
   - Browser
   - ECMAScript
@@ -78,7 +78,7 @@ apis:
     humanURL: https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API
     tags:
       - Browser
-      - Client-side
+      - Client-Side
       - Storage
     tags_raw:
       - Browser
@@ -182,7 +182,7 @@ apis:
       of structured data, including files and blobs.
     humanURL: https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API
     tags:
-      - Client-side
+      - Client-Side
       - Database
       - NoSQL
       - Storage
