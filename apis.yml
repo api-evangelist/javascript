@@ -64,6 +64,11 @@ apis:
       - AJAX
       - Async
       - HTTP
+      - Networks
+    tags_raw:
+      - AJAX
+      - Async
+      - HTTP
       - Network
     properties:
       - type: Documentation
