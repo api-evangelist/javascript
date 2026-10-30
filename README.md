@@ -1,4 +1,4 @@
-# JavaScript (javascript)
+# javascript
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,87 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-JavaScript is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. The JavaScript Web APIs are a collection of browser-provided interfaces that enable web applications to interact with the browser, device hardware, and remote services.
+## javascript on APIs.io
 
-**APIs.json:** [https://raw.githubusercontent.com/api-evangelist/javascript/refs/heads/main/apis.yml](https://raw.githubusercontent.com/api-evangelist/javascript/refs/heads/main/apis.yml)
+Everything profiled for javascript is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/javascript/](https://apis.io/providers/javascript/)** — or go straight to one of the APIs or properties below.
 
-## Scope
+## API Evangelist rating
 
-- **Type:** Index
-- **Tags:** Browser, ECMAScript, JavaScript, Programming Language, Web APIs
+Not yet rated. See [apis.io/providers/javascript/](https://apis.io/providers/javascript/).
 
-## Timestamps
+## How this profile is made
 
-- **Created:** 2024-01-01
-- **Modified:** 2026-04-28
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## APIs
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for javascript: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-### Fetch API
+## Open an issue
 
-Modern JavaScript interface for making HTTP requests and processing responses, replacing XMLHttpRequest.
-
-- [Documentation](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
-- [Specification](https://fetch.spec.whatwg.org/)
-
-### Web Storage API
-
-JavaScript APIs for storing key/value pairs in the browser using localStorage and sessionStorage.
-
-- [Documentation](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API)
-- [Specification](https://html.spec.whatwg.org/multipage/webstorage.html)
-
-### Web Audio API
-
-System for controlling audio on the web, including audio sources, effects, visualizations, and spatial audio.
-
-- [Documentation](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Using_Web_Audio_API)
-- [Specification](https://webaudio.github.io/web-audio-api/)
-
-### Canvas API
-
-APIs for drawing graphics via JavaScript and the HTML canvas element.
-
-- [Documentation](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
-- [Specification](https://html.spec.whatwg.org/multipage/canvas.html)
-
-### WebSockets API
-
-API for opening bidirectional, full-duplex communication channels between client and server.
-
-- [Documentation](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_client_applications)
-- [Specification](https://websockets.spec.whatwg.org/)
-
-### Geolocation API
-
-API for accessing geographical position information of the device, with user consent.
-
-- [Documentation](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API/Using_the_Geolocation_API)
-- [Specification](https://w3c.github.io/geolocation-api/)
-
-### Notifications API
-
-API for displaying system notifications to users outside of the browser tab.
-
-- [Documentation](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API/Using_the_Notifications_API)
-- [Specification](https://notifications.spec.whatwg.org/)
-
-### IndexedDB API
-
-Low-level API for client-side storage of significant amounts of structured data.
-
-- [Documentation](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/Using_IndexedDB)
-- [Specification](https://w3c.github.io/IndexedDB/)
-
-## Common Properties
-
-- [Website](https://www.javascript.com/)
-- [Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [Getting Started](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
-- [Reference](https://developer.mozilla.org/en-US/docs/Web/API)
-
-## Maintainers
-
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/javascript/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
